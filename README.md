@@ -1,14 +1,16 @@
-# CampusHash HTML5 Deck - Template
+# CampusHash HTML5 Deck
 
 ## Editing the slides
 
-The slides are compiled from `slides.md`, which is written in standard markdown with some alterations. Check out `sample.md` to get an overview. Upon editing, you can compile the slides by running
+The slides are compiled from `slides.md`, which is written in standard markdown with some alterations. Check out `slides.md` to get an overview. Upon editing, you can compile the slides by running
 
 ```
-python render.py
+$ python render.py
 ```
 
 which will output `presentation.html`.
+
+To use this deck, clone this repo, and make the changes.
 
 ## Configuring the slides
 
