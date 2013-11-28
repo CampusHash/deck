@@ -1,4 +1,4 @@
-# CampusHash HTML5 Deck
+# CampusHash HTML5 Deck - [Python](http://campushash.com/workshops/python)
 
 ## Editing the slides
 
