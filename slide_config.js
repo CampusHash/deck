@@ -1,9 +1,9 @@
 var SLIDE_CONFIG = {
   // Slide settings
   settings: {
-    title: 'Python 101',
-    subtitle: 'Introduction to Python programming',
-    eventTitle: 'CampusHash InternHacks',
+    title: 'Event Title',
+    subtitle: 'Short event description',
+    eventTitle: 'CampusHash Events',
     useBuilds: true, // Default: true. False will turn off slide animation builds.
     usePrettify: true, // Default: true
     enableSlideAreas: true, // Default: true. False turns off the click areas on either slide of the slides.
