@@ -2,32 +2,34 @@ title: Slide Title
 subtitle: Subtitle
 class: image
 
-![Mobile vs desktop users](image.png)
+![CampusHash](images/campushash_icon_128.png)
 
 ---
 
-title: Segue Slide
+title: Special Slide
 subtitle: Subtitle
 class: segue dark nobackground
 
 ---
 
-title: Agenda
+title: Elements
 class: big
-build_lists: true
+build_lists: false
 
-Things we'll cover (list should build):
+This is an unordered list:
 
 - Bullet1
 - Bullet2
 - Bullet3
 
+This is __bold__. This is _italic_.
+
 ---
 
-title: Today
+title: No Background
 class: nobackground fill
 
-![Many kinds of devices.](image.png)
+![CampusHash](images/campushash_icon_128.png)
 
 <footer class="source">source: place source info here</footer>
 
@@ -35,6 +37,8 @@ class: nobackground fill
 
 title: Big Title Slide
 class: title-slide
+
+This is a title with the event branding.
 
 ---
 
