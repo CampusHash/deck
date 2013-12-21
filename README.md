@@ -1,4 +1,4 @@
-# CampusHash HTML5 Deck
+# CampusHash HTML5 Deck - [Demo](http://campushash.github.io/deck/)
 
 ## Editing the slides
 
